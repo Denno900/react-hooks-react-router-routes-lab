@@ -19,7 +19,7 @@ const movies = [
 const actors = [
   {
     name: "Benedict Cumberbatch",
-    movies: ["Doctor Strange", "The Imitation Game", "Black Mass"],
+    movies: ["Doctor Strange", "The Imitation Game", "Sherlock Holmes"],
   },
   {
     name: "Justin Timberlake",
@@ -35,6 +35,7 @@ const actors = [
       "Jack Reacher: Never Go Back",
       "Mission Impossible 4",
       "War of the Worlds",
+      "Top Gun Maverick"
     ],
   },
 ];
